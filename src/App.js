@@ -1,12 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
+import Body from "./components/Body";
 
 function App() {
-  return (
-    <div className="App">
-      <main className="text-5xl">Main content</main>
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
