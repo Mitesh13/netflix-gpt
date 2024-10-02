@@ -3,7 +3,7 @@
 @tailwind utilities;
 body {
   margin: 0;
-  background: black;
+  /* background: black; */
 }
 * {
   box-sizing: border-box;
